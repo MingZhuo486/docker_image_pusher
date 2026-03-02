@@ -8,3 +8,4 @@ nginx
 --platform=linux/arm/v7 alpine
 --platform=linux/arm/v7 ubuntu
 moby/buildkit:buildx-stable-1
+langgenius/dify-api:1.13.0
