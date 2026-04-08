@@ -12,8 +12,9 @@
 #minio/minio:RELEASE.2024-12-18T13-15-44Z
 #milvusdb/milvus:v2.6.13
 #neo4j:4.4.30
-docker.io/langfuse/langfuse-worker:3
-docker.io/langfuse/langfuse:3
-docker.io/clickhouse/clickhouse-server
-cgr.dev/chainguard/minio
+#docker.io/langfuse/langfuse-worker:3
+#docker.io/langfuse/langfuse:3
+#docker.io/clickhouse/clickhouse-server
+#cgr.dev/chainguard/minio
+docker.io/redis:7
 
